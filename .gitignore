@@ -65,9 +65,6 @@ node_modules/
 # OS specific
 .DS_Store
 
-# Task files
-tasks.json
-tasks/ 
 .tasks/
 taskfile.yml
 
@@ -78,3 +75,7 @@ taskfile.yml
 CLAUDE.md
 .taskmaster
 nupkg/
+
+# Task files
+# tasks.json
+# tasks/ 
